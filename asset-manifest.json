@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculator_incubyte/static/css/main.9f0ada02.css",
+    "main.js": "/calculator_incubyte/static/js/main.f411e600.js",
+    "static/js/453.4b98457a.chunk.js": "/calculator_incubyte/static/js/453.4b98457a.chunk.js",
+    "index.html": "/calculator_incubyte/index.html",
+    "main.9f0ada02.css.map": "/calculator_incubyte/static/css/main.9f0ada02.css.map",
+    "main.f411e600.js.map": "/calculator_incubyte/static/js/main.f411e600.js.map",
+    "453.4b98457a.chunk.js.map": "/calculator_incubyte/static/js/453.4b98457a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f0ada02.css",
+    "static/js/main.f411e600.js"
+  ]
+}
